@@ -1,2 +1,2 @@
 # Wall-of-Practise
-Practise your skills that you are acquiring in the course
+A Public Repo to test out your skills acquired in the Course
