@@ -13,7 +13,7 @@ Here are some assignments that you might find interesting and should be easy:
 
 1. Create a Branch & commit something you wanna share something publicaly, maybe that famous quote you saw right now in a book or a link to your favourite movie, song or that amazing art you saw. GitHub isn't just a place for code but anything that you want. 
 
-Create a new folder under your intials(Choose a pseudo name) and then share your piece of work and then create a pull request in this repo
+Create your own branch, share your work in a new folder with your name(create an alias or a pseudoname), push the branch and then create a pull request.
 
 2. I hve left some typo in this README.md, why don't you try fixing thm?
 
